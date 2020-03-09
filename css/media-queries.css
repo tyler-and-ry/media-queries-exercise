@@ -27,6 +27,7 @@ div.alert-info.hidden-on-desktop {
 div.alert-info.hidden-on-desktop a {
     text-decoration: none;
     color: black;
+    font-size: .75em;
 }
 
 .nav-links {
@@ -78,7 +79,7 @@ p {
 
     body {
         display: grid;
-        grid-template-columns: 60% 1fr;
+        grid-template-columns: 65% 1fr;
         grid-template-rows: 1fr 1fr 40% 1fr;
         grid-gap: 5px;
         height: 100vh;
@@ -132,7 +133,7 @@ p {
     }
 
     h2 {
-        margin: 30px 20px;
+        margin: 30px 20px 40px 20px;
     }
 
     footer {
