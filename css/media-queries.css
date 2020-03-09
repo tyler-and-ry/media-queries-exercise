@@ -12,7 +12,6 @@ body {
     grid-gap: 5px;
     height: 100vh;
     width: 100vw;
-
 }
 
 div.alert-info.hidden-on-desktop {
@@ -137,7 +136,7 @@ p {
     }
 
     footer {
-        grid-column: 1 / span 1
+        grid-column: 1 / span 1;
         grid-row: 4 / -1;
         padding-left: 10px;
     }
